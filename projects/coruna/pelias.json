@@ -36,8 +36,10 @@
       }
     },
     "defaultParameters": {
-      "focus.point.lat": 43.357085,
-      "focus.point.lon": -8.404528
+      "boundary.rect.min_lat": 43.29,
+      "boundary.rect.min_lon": -8.46,
+      "boundary.rect.max_lat": 43.39,
+      "boundary.rect.max_lon": -8.38
     }
   },
   "imports": {
